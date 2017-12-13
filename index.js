@@ -1,1 +1,1 @@
-module.exports = require('./lib/isemail');
+module.exports = require('./lib/replaced-isemail');
