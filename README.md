@@ -1,5 +1,5 @@
 
-email validation を独自使用で実装。
+email validation を独自仕様で実装。
 loopback の email validation を変更する目的で使用する。
 
 isemail
